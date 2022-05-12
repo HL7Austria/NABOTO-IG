@@ -1,0 +1,128 @@
+﻿NabotoImplementationGuide : Validation Results
+=========================================
+
+err = 66, warn = 1, info = 4
+IG Publisher Version: 1.1.104 Out of date - current version is 1.1.119
+Generated Thu May 12 20:19:20 CEST 2022. FHIR version 4.0.1 for NabotoProfiles#0.1.1 (canonical = http://fhir.naboto.com/4.0.1/NabotoProfiles)
+ Build Errors : 62 / 0 / 0
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/Appointment-NabotoAppointmentExample : 4 / 0 / 1
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/CodeSystem-at-core-cs-iso-3166-1-alpha-3 : 0 / 1 / 2
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/CodeSystem-at-core-cs-religion : 0 / 0 / 2
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/CodeSystem-naboto-vidcall-channel-type : 0 / 0 / 2
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/ImplementationGuide-NabotoProfiles : 0 / 0 / 1
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/Organization-Organization-example-f001-burgers : 0 / 0 / 2
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/Patient-HL7ATCorePatientExample01 : 0 / 0 / 1
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/Patient-HL7ATCorePatientExample02-deceasedTime : 0 / 0 / 1
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/Patient-HL7ATCorePatientExample03-deceasedBoolean : 0 / 0 / 1
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/Patient-HL7ATCorePatientExample04-Full : 0 / 0 / 1
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/Patient-HL7ATCorePatientExample05-FullElga : 0 / 0 / 1
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/Patient-NabotoPatientExample : 0 / 0 / 1
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/StructureDefinition-at-core-address : 0 / 0 / 1
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/StructureDefinition-at-core-ext-address-additionalInformation : 0 / 0 / 1
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/StructureDefinition-at-core-ext-patient-religion : 0 / 0 / 1
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/StructureDefinition-at-core-patient : 0 / 0 / 1
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/StructureDefinition-naboto-appointment : 0 / 0 / 1
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/StructureDefinition-naboto-note : 0 / 0 / 1
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/StructureDefinition-naboto-patient : 0 / 0 / 1
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/StructureDefinition-virtual-service-contact-detail : 0 / 0 / 1
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/ValueSet-at-elga-vs-countryCodes : 0 / 0 / 1
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/ValueSet-at-elga-vs-religion : 0 / 0 / 1
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/ValueSet-naboto-appointment-status : 0 / 0 / 1
+ /home/samuel/naboto/APIs/fhir-api/fsh-generated/resources/ValueSet-naboto-vidcall-channel-type-vs : 0 / 0 / 1
+</table>
+== n/a ==
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 181, column 1407: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 182, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 183, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 184, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 185, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 186, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 187, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 188, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 189, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 190, column 486: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 191, column 391: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 192, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 193, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 194, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 195, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 196, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 197, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 198, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 199, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 200, column 395: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 201, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 202, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 203, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 204, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 205, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 206, column 486: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 207, column 391: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 208, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 209, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 210, column 486: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 211, column 391: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 212, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 213, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 214, column 486: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 215, column 391: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 216, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 217, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 218, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 219, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 220, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 221, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 222, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 223, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 224, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 225, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 226, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 227, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 228, column 395: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 229, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 230, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 231, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 232, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 233, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 234, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 235, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 236, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 237, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 238, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 239, column 482: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 240, column 395: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 241, column 478: The image source 'icon_entry_blue.png' cannot be resolved
+ERROR: /home/samuel/naboto/APIs/fhir-api/output/ValueSet-at-elga-vs-religion.html#/html/body/div/div/div/div/div/div/ul/li/table/tr/td/img at Line 242, column 486: The image source 'icon_entry_blue.png' cannot be resolved
+== fsh-generated/resources/Appointment-NabotoAppointmentExample.json ==
+ERROR: Appointment/NabotoAppointmentExample: Appointment.extension[0].extension[0].value.ofType(Annotation).author.ofType(Reference): Unable to resolve resource 'https://naboto.com/patient/12345'
+ERROR: Appointment/NabotoAppointmentExample: Appointment.extension[1].extension[0].value.ofType(Annotation).author.ofType(Reference): Unable to resolve resource 'https://naboto.com/practitioner/987654321'
+ERROR: Appointment/NabotoAppointmentExample: Appointment.participant[0].actor: Unable to resolve resource 'https://naboto.com/practitioner/987654321'
+ERROR: Appointment/NabotoAppointmentExample: Appointment.participant[1].actor: Unable to resolve resource 'https://naboto.com/patients/1337'
+== fsh-generated/resources/CodeSystem-at-core-cs-iso-3166-1-alpha-3.json ==
+WARNING: CodeSystem/at-core-cs-iso-3166-1-alpha-3: CodeSystem: csd-0: 'Name should be usable as an identifier for the module by machine processing applications such as code generation' Rule 'Name should be usable as an identifier for the module by machine processing applications such as code generation' Failed
+INFORMATION: CodeSystem/at-core-cs-iso-3166-1-alpha-3: CodeSystem: CodeSystems SHOULD have a stated value for the caseSensitive element so that users know the status and meaning of the code system clearly
+== fsh-generated/resources/CodeSystem-at-core-cs-religion.json ==
+INFORMATION: CodeSystem/at-core-cs-religion: CodeSystem: CodeSystems SHOULD have a stated value for the caseSensitive element so that users know the status and meaning of the code system clearly
+== fsh-generated/resources/CodeSystem-naboto-vidcall-channel-type.json ==
+INFORMATION: CodeSystem/naboto-vidcall-channel-type: CodeSystem: CodeSystems SHOULD have a stated value for the caseSensitive element so that users know the status and meaning of the code system clearly
+== fsh-generated/resources/ImplementationGuide-NabotoProfiles.json ==
+== fsh-generated/resources/Organization-Organization-example-f001-burgers.json ==
+INFORMATION: Organization/Organization-example-f001-burgers: Organization.type[0].coding[0]: Code System URI 'urn:oid:2.16.840.1.113883.2.4.15.1060' is unknown so the code cannot be validated
+== fsh-generated/resources/Patient-HL7ATCorePatientExample01.json ==
+== fsh-generated/resources/Patient-HL7ATCorePatientExample02-deceasedTime.json ==
+== fsh-generated/resources/Patient-HL7ATCorePatientExample03-deceasedBoolean.json ==
+== fsh-generated/resources/Patient-HL7ATCorePatientExample04-Full.json ==
+== fsh-generated/resources/Patient-HL7ATCorePatientExample05-FullElga.json ==
+== fsh-generated/resources/Patient-NabotoPatientExample.json ==
+== fsh-generated/resources/StructureDefinition-at-core-address.json ==
+== fsh-generated/resources/StructureDefinition-at-core-ext-address-additionalInformation.json ==
+== fsh-generated/resources/StructureDefinition-at-core-ext-patient-religion.json ==
+== fsh-generated/resources/StructureDefinition-at-core-patient.json ==
+== fsh-generated/resources/StructureDefinition-naboto-appointment.json ==
+== fsh-generated/resources/StructureDefinition-naboto-note.json ==
+== fsh-generated/resources/StructureDefinition-naboto-patient.json ==
+== fsh-generated/resources/StructureDefinition-virtual-service-contact-detail.json ==
+== fsh-generated/resources/ValueSet-at-elga-vs-countryCodes.json ==
+== fsh-generated/resources/ValueSet-at-elga-vs-religion.json ==
+== fsh-generated/resources/ValueSet-naboto-appointment-status.json ==
+== fsh-generated/resources/ValueSet-naboto-vidcall-channel-type-vs.json ==
