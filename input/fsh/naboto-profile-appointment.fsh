@@ -55,7 +55,7 @@ Description:    "Naboto Profile for appointment data. The Naboto Appointment is 
 * participant ^slicing.discriminator.path = "actor.type"
 * participant ^slicing.ordered = false
 // An appointment must have 1 Patient and at least 1 Practitioner
-* participant contains patient 1..1 and practitioner 1..* MS
+* participant contains patient 1..1 and practitioner 0..* MS
 // Slice for Patient
 * participant[patient].actor ^short = "Patient participating in appointment. Exactly 1 Patient is required"
 * participant[patient].type = http://terminology.hl7.org/CodeSystem/v3-ParticipationType#SBJ (exactly)
