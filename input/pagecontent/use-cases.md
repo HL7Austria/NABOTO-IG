@@ -52,7 +52,7 @@ Example [VirtualServiceContactDetail][virtual-service-contact-detail] for creati
             }
         }
         ],
-        "url" : "http://fhir.naboto.com/4.0.1/NabotoProfiles/StructureDefinition/virtual-service-contact-detail"
+        "url" : "http://hl7.at/fhir/NABOTO/R4/StructureDefinition/virtual-service-contact-detail"
     }
     ],
 }
@@ -81,7 +81,7 @@ Example [VirtualServiceContactDetail][virtual-service-contact-detail] for with a
             "valueString" : "1234567890"
         }
         ],
-        "url" : "http://fhir.naboto.com/4.0.1/NabotoProfiles/StructureDefinition/virtual-service-contact-detail"
+        "url" : "http://hl7.at/fhir/NABOTO/R4/StructureDefinition/virtual-service-contact-detail"
     }
     ]
 }
