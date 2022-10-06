@@ -76,7 +76,7 @@ Description:    "Naboto Profile for appointment data. The Naboto Appointment is 
 # Custom ValueSets
 ##############################################################################*/
 * status from NabotoAppointmentStatus
-* status ^short = "pending | booked | arrived | fulfilled | cancelled | noshow | entered-in-error | checked-in"
+* status ^short = "booked | arrived | fulfilled | cancelled | noshow | entered-in-error | checked-in"
 
 /*##############################################################################
 # Extensions
